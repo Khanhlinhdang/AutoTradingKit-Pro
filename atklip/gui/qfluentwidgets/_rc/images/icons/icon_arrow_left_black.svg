@@ -1,0 +1,16 @@
+<ns0:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.inkscape.org/namespaces/inkscape" xmlns:ns2="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns4="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="14" height="14" viewBox="0 0 3.7041666 3.7041667" version="1.1" id="svg1112" ns1:version="1.0.2-2 (e86c870879, 2021-01-15)" ns2:docname="icon_arrow_left.svg">
+  <ns0:defs id="defs1106" />
+  <ns2:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" ns1:pageopacity="0.0" ns1:pageshadow="2" ns1:zoom="23.434943" ns1:cx="-0.27228179" ns1:cy="9.2969808" ns1:document-units="mm" ns1:current-layer="layer1" ns1:document-rotation="0" showgrid="false" units="px" ns1:window-width="1920" ns1:window-height="1057" ns1:window-x="-8" ns1:window-y="-8" ns1:window-maximized="1" />
+  <ns0:metadata id="metadata1109">
+    <rdf:RDF>
+      <ns4:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </ns4:Work>
+    </rdf:RDF>
+  </ns0:metadata>
+  <ns0:g ns1:label="Layer 1" ns1:groupmode="layer" id="layer1">
+    <ns0:path id="path1686" style="fill:#c3ccdf;fill-opacity:1;stroke-width:0.014809" d="M 0.74083338,1.8520834 2.5929167,3.7041667 2.9633333,3.3337501 1.4816666,1.8520834 2.9633333,0.37041667 2.5929167,0 Z" ns2:nodetypes="ccccccc" fill="black" />
+  </ns0:g>
+</ns0:svg>

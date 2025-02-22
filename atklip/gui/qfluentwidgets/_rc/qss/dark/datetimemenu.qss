@@ -1,0 +1,172 @@
+QWidget {
+    background-color: #2b2b2b;
+	color:#eaeaea;
+	border: solid;
+	border-width: 0px;
+	border-color: transparent;
+    border-radius: 5px;
+
+}
+
+QCalendarWidget QToolButton
+{
+	height:38px;
+	width:50px;
+	color:white;
+	font:18px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC';
+	icon-size:18px 18px;
+	background-color:#2b2b2b;
+}
+QCalendarWidget QToolButton:hover
+{
+	background-color:#202020;
+}
+
+QCalendarWidget QWidget#qt_calendar_navigationbar
+{
+	height:35px;
+	background-color:#2b2b2b;
+
+}
+
+
+#qt_calendar_prevmonth,
+#qt_calendar_nextmonth
+{
+	border:none;
+	qproperty-icon:none;
+	background-color:transparent;
+}
+
+
+#qt_calendar_prevmonth
+{
+	qproperty-icon: url(:/qfluentwidgets/images/icons/CareLeftSolid_white.svg);
+	icon-size: 15px 15px
+}
+
+#qt_calendar_nextmonth
+{
+	qproperty-icon: url(:/qfluentwidgets/images/icons/CareRightSolid_white.svg);
+	icon-size: 15px 15px
+}
+
+
+#qt_calendar_prevmonth:hover,
+#qt_calendar_nextmonth:hover
+{
+	background-color:#202020;
+}
+
+
+
+
+#qt_calendar_monthbutton
+{
+	width:100px;
+	font:18px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC';
+	color:white;
+	background-color:#2b2b2b;
+	margin: 0px 2px;
+	padding: 0px 2px
+
+}
+
+#qt_calendar_yearbutton
+{
+	font:18px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC';
+	color:white;
+	background-color:#2b2b2b;
+	margin: 0px 2px;
+	padding: 0px 2px
+
+}
+
+#qt_calendar_monthbutton:hover,
+#qt_calendar_yearbutton:hover
+{
+	background-color:#202020;
+}
+
+/* MenuBar Code */
+
+QCalendarWidget QMenu
+{
+	width:150px;
+	color:white;
+	font:14px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC';
+	background-color:#2b2b2b;
+}
+
+/* SpinBox Code */
+
+
+
+/* Calendar View Code */
+QCalendarWidget QWidget
+{
+	alternate-background-color:#2b2b2b;
+}
+
+
+QCalendarWidget QAbstractItemView:enabled
+{
+	font:14px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC';
+	color:white;
+	background-color:#2b2b2b;
+	selection-background-color:#202020;
+	selection-color:white;
+}
+QCalendarWidget QAbstractItemView:disabled
+{
+	color:rgb(100,100,100);
+}
+
+QCalendarWidget QSpinBox
+{
+	width:60px;
+	height:25px;
+	font:14px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC';
+	color:white;
+	background-color:#2b2b2b;
+}
+
+#qt_calendar_calendarview
+{
+	font:14px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC';
+	color:white;
+	background-color:#2b2b2b;
+	border-width: 0px;
+	border-color: #2b2b2b;
+    border-radius:5px;
+}
+
+
+#qt_calendar_calendarview::item
+{
+	background-color:#2b2b2b;
+	border-width: 0px;
+	border-color: #2b2b2b;
+    border-radius:25px;
+
+}
+
+
+#qt_calendar_calendarview::item:hover
+{
+	background-color:#202020;
+	border-width: 0px;
+	border-color: #202020;
+    border-radius:25px;
+
+}
+
+#qt_calendar_calendarview::item:selected
+{
+	background-color:black;
+	border-width: 0px;
+	border-color: black;
+    border-radius:25px;
+	
+}
+

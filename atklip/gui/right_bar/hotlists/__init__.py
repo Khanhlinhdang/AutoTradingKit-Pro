@@ -1,0 +1,1 @@
+from .hotlist import HOTLISTS

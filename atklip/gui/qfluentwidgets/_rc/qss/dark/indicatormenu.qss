@@ -1,0 +1,16 @@
+IndicatorMenu {
+    background: #202020;
+    border: 0px solid #272727;
+    border-radius: 5px;}
+SymbolSearchMenu {
+    background: #202020;
+    border: 0px solid #272727;
+    border-radius: 5px;}
+IndicatorSettingMenu {
+    background: #202020;
+    border: 0px solid #272727;
+    border-radius: 5px;}
+DrawSettingMenu {
+    background: #202020;
+    border: 0px solid #272727;
+    border-radius: 5px;}

@@ -1,0 +1,20 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<ns0:desc>Created with Fabric.js 5.2.4</ns0:desc>
+<ns0:defs>
+</ns0:defs>
+<ns0:g transform="matrix(1 0 0 1 540 540)" id="adbd9313-837c-4230-8639-01d6f1871cbe">
+<ns0:rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: #0055ff; fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke" x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" fill="#0055ff" />
+</ns0:g>
+<ns0:g transform="matrix(1 0 0 1 540 540)" id="e9cb00e6-4ac1-4e79-ad4d-2a3cd8a3498d">
+</ns0:g>
+<ns0:g transform="matrix(38.57 0 0 38.57 540 540)">
+<ns0:g style="">
+		<ns0:g transform="matrix(1 0 0 1 0.5 -5.5)">
+<ns0:path style="stroke: #0055ff; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(253,253,253); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(-14.5, -8.5)" d="M 6 12 L 10.8 7.2 C 11.18884351019864 6.818857123805714 11.811156489801363 6.818857123805714 12.200000000000001 7.2 L 14.900000000000002 9.9 C 15.249044836875122 10.250084971427595 15.801519165575666 10.292582996712252 16.200000000000003 10 L 23 5" stroke-linecap="round" fill="#0055ff" />
+</ns0:g>
+		<ns0:g transform="matrix(1 0 0 1 0.5 3.5)">
+<ns0:path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(253,253,253); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(-14.5, -17.5)" d="M 19 12 C 18.447715250169207 12 18 12.447715250169207 18 13 L 18 17 L 15 17 L 15 16 C 15 15.447715250169207 14.552284749830793 15 14 15 L 11 15 C 10.447715250169207 15 10 15.447715250169207 10 16 L 10 18 L 7 18 C 6.447715250169207 18 6 18.447715250169207 6 19 L 6 23 L 23 23 L 23 13 C 23 12.447715250169207 22.552284749830793 12 22 12 L 19 12 z M 19 22 L 22 22 L 22 13 L 19 13 L 19 22 z M 18 22 L 18 18 L 15 18 L 15 22 L 18 22 z M 14 17.5 L 14 22 L 11 22 L 11 16 L 14 16 L 14 17.5 z M 10 22 L 10 19 L 7 19 L 7 22 L 10 22 z" stroke-linecap="round" fill="#0055ff" />
+</ns0:g>
+</ns0:g>
+</ns0:g>
+</ns0:svg>

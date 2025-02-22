@@ -1,0 +1,14 @@
+CardWidget {
+    background-color: transparent;
+}
+#exchange_icon {
+    background-color: transparent;
+}
+
+#exchange {
+    background-color: transparent;
+}
+
+#mode {
+    background-color: transparent;
+}

@@ -1,0 +1,17 @@
+CURSOR {
+    background-color: transparent;
+    border: none;
+    border-radius: 4px;
+    margin: 0;
+}
+
+#splitToolButton:pressed {
+    background-color:transparent;
+    border: none;
+}
+
+#splitToolButton:disabled {
+    background-color: transparent;
+    border: none;
+}
+

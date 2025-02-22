@@ -1,0 +1,35 @@
+PySide6
+PySide6-stubs
+PySideSix-Frameless-Window
+darkdetect
+colorthief
+scipy
+pillow
+# numpy==2.0.2
+qasync
+numpy
+pyqtgraph
+pandas
+numba
+ccxt
+PyOpenGL
+cython
+# fastapi
+# uvicorn
+# multitasking
+pandas-datareader
+pyarrow
+arrow
+setuptools
+# streamlit
+tulipy
+# polars[all]
+polars-lts-cpu
+python-rapidjson
+humanize
+websockets
+wsproto
+httptools
+psygnal
+# slowapi
+winloop

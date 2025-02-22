@@ -1,0 +1,8 @@
+CaptionLabel {
+    color: #d1d4dc;
+}
+
+QGraphicsView {
+    background: transparent;
+    border: none
+}

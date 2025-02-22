@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 540 540)" id="6684167a-1ad2-40ab-b296-9a49ff31db70"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="f87b653c-636b-441d-96ad-4af391f47d15"  >
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="a53a2dc5-7ca9-43ed-9bae-b8c4f6c3ec69"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-12, -12)" d="M 12.015 7 C 16.766000000000002 7 20.078000000000003 10.012 21.519 11.636 C 20.118 13.472999999999999 16.805999999999997 17 12.014999999999999 17 C 7.594999999999999 17 4.084999999999999 13.464 2.536999999999999 11.593 C 4.029999999999999 9.946 7.353999999999999 7 12.014999999999999 7 z M 12.015 5 C 4.446000000000001 5 0 11.551 0 11.551 C 0 11.551 4.835 19 12.015 19 C 19.748 19 24 11.551 24 11.551 C 24 11.551 19.709 5 12.015 5 z M 12 10 C 13.103 10 14 10.897 14 12 C 14 13.103 13.103 14 12 14 C 10.897 14 10 13.103 10 12 C 10 10.897 10.897 10 12 10 z M 12 8 C 9.791 8 8 9.792 8 12 C 8 14.209 9.791 16 12 16 C 14.209 16 16 14.209 16 12 C 16 9.792 14.209 8 12 8 z" stroke-linecap="round" />
+</g>
+</svg>

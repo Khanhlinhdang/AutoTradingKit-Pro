@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 540 540)" id="e8c8f618-96ba-4784-90d1-b20bd5ccc995"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: #0055ff; fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="5e645da5-4b7f-4aa7-937b-67bb204a7508"  >
+</g>
+<g transform="matrix(38.57 0 0 38.57 540 540)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 -4.27 3.26)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: #0055ff; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-9.73, -17.26)" d="M 1.789 23 L 2.6479999999999997 22.146 L 2.8689999999999998 21.918 C 3.049 21.727999999999998 3.2489999999999997 21.509 3.4659999999999997 21.262999999999998 C 4.085 20.558999999999997 4.704 19.784999999999997 5.281 18.964999999999996 C 6.263 17.568999999999996 7.019 16.188999999999997 7.458 14.883999999999997 C 8.692 11.216999999999997 13.415 10.167999999999996 16.381 13.620999999999997 C 19.632 17.406 16.344 23.000999999999998 11.002 23.000999999999998 L 1.7910000000000004 23.000999999999998 z M 11 22 C 15.544 22 18.272 17.358 15.621 14.272 C 13.171 11.419 9.396 12.257 8.405000000000001 15.203 C 7.931000000000001 16.611 7.1320000000000014 18.072 6.098000000000001 19.54 C 5.4990000000000006 20.392 4.857000000000001 21.192999999999998 4.216000000000001 21.923 L 4.1480000000000015 22.000999999999998 L 11.001000000000001 22.000999999999998 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 7.83 -4.32)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: #0055ff; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-21.83, -9.68)" d="M 18.182 6.002 L 16.762999999999998 7.288 C 15.731999999999998 8.223 15.687999999999999 9.789 16.666999999999998 10.768 L 18.543999999999997 12.645000000000001 C 19.519999999999996 13.621000000000002 21.096999999999998 13.599000000000002 22.056999999999995 12.600000000000001 L 27.706999999999994 6.726000000000002 L 26.985999999999994 6.033000000000002 L 21.33599999999999 11.907000000000002 C 20.76199999999999 12.503000000000002 19.82899999999999 12.516000000000002 19.249999999999993 11.938000000000002 L 17.372999999999994 10.061000000000002 C 16.798999999999992 9.487000000000002 16.824999999999996 8.581000000000001 17.433999999999994 8.029000000000002 L 18.852999999999994 6.743000000000002 L 18.180999999999994 6.0020000000000024 z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>

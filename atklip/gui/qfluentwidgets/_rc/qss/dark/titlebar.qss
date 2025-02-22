@@ -1,0 +1,8 @@
+TitleBar {
+    border: 0px solid rgba(255, 255, 255, 0.1);
+    border-radius: 5px;
+    background-color: rgb(43, 43, 43);
+    outline: none;
+    color: rgba(255, 255, 255, 0.7);
+    font: 14px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC';
+}

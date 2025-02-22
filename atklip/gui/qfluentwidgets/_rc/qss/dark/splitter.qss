@@ -1,0 +1,63 @@
+/* QSplitter::handle:vertical {
+    height: 3px;
+    background-color: transparent;
+    image: url(:/qfluentwidgets/images/icons/splitvertical_white.svg);
+} */
+/* 
+QSplitter::handle:vertical:pressed{
+    height: 10px;
+    background-color:#474747;
+    image: url(:/qfluentwidgets/images/icons/splitvertical_white.svg);
+}
+
+QSplitter::handle:vertical:!pressed{
+    height: 3px;
+    background-color:#212121;
+    image: url(:/qfluentwidgets/images/icons/splitvertical_white.svg);
+} */
+
+QSplitter::handle:vertical:hover{
+    height: 10px;
+    background-color: #474747;
+    image: url(:/qfluentwidgets/images/icons/splitvertical_white.svg);
+}
+
+
+QSplitter::handle:vertical:!hover{
+    height: 5px;
+    background-color: #212121;
+    image: url(:/qfluentwidgets/images/icons/splitvertical_white.svg);
+}
+/* 
+
+QSplitter::handle:horizontal {
+    width: 3px;
+    background-color: transparent; 
+    image: url(:/qfluentwidgets/images/icons/splithorizontal_white.svg);
+}
+
+QSplitter::handle:horizontal:pressed{
+    width: 10px;
+    background-color:#212121;
+    image: url(:/qfluentwidgets/images/icons/splithorizontal_white.svg);
+}
+
+
+QSplitter::handle:horizontal:!pressed{
+    height: 2px;
+    background-color:#212121;
+    image: url(:/qfluentwidgets/images/icons/splitvertical_white.svg);
+} */
+
+QSplitter::handle:horizontal:hover{
+    width: 10px;
+    background-color: #474747;
+    image: url(:/qfluentwidgets/images/icons/splithorizontal_white.svg);
+}
+
+QSplitter::handle:horizontal:!hover{
+    width: 5px;
+    background-color: #212121;
+    image: url(:/qfluentwidgets/images/icons/splithorizontal_white.svg);
+}
+

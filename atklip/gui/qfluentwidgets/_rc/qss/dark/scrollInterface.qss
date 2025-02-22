@@ -1,0 +1,15 @@
+ScrollInterface,
+#view {
+    background-color: transparent;
+}
+
+QScrollArea {
+    border: none;
+}
+
+/* #sourceWidget {
+    background-color: rgba(255, 255, 255, 0.09);
+    border-top: 1px solid rgb(36, 36, 36);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+} */

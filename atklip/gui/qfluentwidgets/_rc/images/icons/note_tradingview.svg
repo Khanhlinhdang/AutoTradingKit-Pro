@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 540 540)" id="e8c8f618-96ba-4784-90d1-b20bd5ccc995"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: #0055ff; fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="5e645da5-4b7f-4aa7-937b-67bb204a7508"  >
+</g>
+<g transform="matrix(38.57 0 0 38.57 540 540)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: #0055ff; fill-rule: evenodd; opacity: 1;"  transform=" translate(-14, -14)" d="M 21 11.25 C 21 13.22 19.97 15.45 18.4 17.78 C 17.083483987350625 19.66733438248305 15.671653497400197 21.486359481828146 14.169999999999987 23.229999999999997 L 13.999999999999998 23.43 L 13.829999999999998 23.23 C 12.328346502599787 21.486359481828146 10.916516012649378 19.667334382483034 9.600000000000001 17.779999999999983 C 8.03 15.44 7 13.22 7 11.25 C 6.93313336582079 7.315825653758832 10.065901208342236 4.071173245433051 14.000000000000004 4 C 17.84 4 21 7.220000000000001 21 11.25 Z M 14.93 23.880000000000003 L 14.65 24.220000000000002 L 14 25 L 13.35 24.22 L 13.07 23.88 C 9.9 20.06 6 15.4 6 11.25 C 5.933206638268363 6.763575334110515 9.5136438888447 3.0712494194536664 14 3 C 18.42 3 22 6.7 22 11.25 C 22 15.39 18.11 20.060000000000002 14.93 23.880000000000003 Z M 17 11 C 17 12.65685424949238 15.65685424949238 14 14 14 C 12.34314575050762 14 11 12.65685424949238 11 11 C 11 9.34314575050762 12.34314575050762 8 14 8 C 15.65685424949238 8 17 9.343145750507619 17 11 Z M 18 11 C 18 13.209138999323173 16.209138999323173 15 14 15 C 11.790861000676827 15 10 13.209138999323173 10 11 C 10 8.790861000676827 11.790861000676827 7 14 7 C 16.209138999323173 7 18 8.790861000676825 18 10.999999999999998 Z" stroke-linecap="round" />
+</g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 540 540)" id="a6474d76-c44b-4cb3-bcc2-9e97042a2b6d"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="1fc2687a-fc2d-4a62-942d-07f30305f0f7"  >
+</g>
+<g transform="matrix(38.57 0 0 38.57 540 540)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 1.71 0.29)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-15.71, -14.29)" d="M 10.275 20.432 L 21.854 8.852999999999998 L 21.147 8.145999999999997 L 9.567999999999998 19.724999999999998 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -1 -1.77)" id="Line"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-13, -12.23)" d="M 8.336 13.043 L 16.957 21.664 L 17.664 20.957 L 9.043000000000001 12.336 z M 9.149 10.558 L 16.207 3.5 L 15.5 2.793 L 8.442 9.850999999999999 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 9.32 3.68)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-23.32, -17.68)" d="M 20.149 21.558 L 27.207 14.5 L 26.5 13.793 L 19.442 20.851 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -2.5 8.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-11.5, -22.5)" d="M 6.5 23 L 16.5 23 L 16.5 22 L 6.5 22 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -2.5 3)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-11.5, -17)" d="M 4.5 24 C 5.328 24 6 23.328 6 22.5 C 6 21.672 5.328 21 4.5 21 C 3.6719999999999997 21 3 21.672 3 22.5 C 3 23.328 3.672 24 4.5 24 z M 4.5 25 C 3.1189999999999998 25 2 23.881 2 22.5 C 2 21.119 3.1189999999999998 20 4.5 20 C 5.881 20 7 21.119 7 22.5 C 7 23.881 5.881 25 4.5 25 z M 7.5 13 C 8.328 13 9 12.328 9 11.5 C 9 10.672 8.328 10 7.5 10 C 6.672000000000001 10 6 10.672 6 11.5 C 6 12.328 6.672 13 7.5 13 z M 7.5 14 C 6.119 14 5 12.881 5 11.5 C 5 10.119 6.119 9 7.5 9 C 8.881 9 10 10.119 10 11.5 C 10 12.881 8.881 14 7.5 14 z M 18.5 24 C 19.328 24 20 23.328 20 22.5 C 20 21.672 19.328 21 18.5 21 C 17.672 21 17 21.672 17 22.5 C 17 23.328 17.672 24 18.5 24 z M 18.5 25 C 17.119 25 16 23.881 16 22.5 C 16 21.119 17.119 20 18.5 20 C 19.881 20 21 21.119 21 22.5 C 21 23.881 19.881 25 18.5 25 z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
