@@ -1,6 +1,19 @@
+
 # ATK - Auto Trading Kit
 
 This is a free software designed for traders. If you become wealthy thanks to it, that is our happiness.
+
+🔹 **Automate Your Trades** with cutting-edge algorithms
+🔹 **Real-time Market Analysis** with advanced indicators
+🔹 **Optimized for Performance** using Python & PySide6
+
+This project is built for traders who want to  **enhance their strategy, reduce manual work, and execute trades efficiently** . Whether you’re a developer, trader, or enthusiast, your contributions can help improve this  **open-source trading platform** !
+
+⭐ **Star this repo** to support the project!
+🔄 **Fork it** to customize & contribute!
+💬 **Join the discussion** and share your insights!
+
+Let’s build the future of algorithmic trading together! 🚀🔥
 
 ## Description
 
