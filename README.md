@@ -1,25 +1,24 @@
-
 # ATK - Auto Trading Kit
 
 This is a free software designed for traders. If you become wealthy thanks to it, that is our happiness.
-
-🔹 **Automate Your Trades** with cutting-edge algorithms
-🔹 **Real-time Market Analysis** with advanced indicators
-🔹 **Optimized for Performance** using Python & PySide6
-
-This project is built for traders who want to  **enhance their strategy, reduce manual work, and execute trades efficiently** . Whether you’re a developer, trader, or enthusiast, your contributions can help improve this  **open-source trading platform** !
-
-⭐ **Star this repo** to support the project!
-🔄 **Fork it** to customize & contribute!
-💬 **Join the discussion** and share your insights!
-
-Let’s build the future of algorithmic trading together! 🚀🔥
 
 ## Description
 
 Auto Trading Kit: its mean, this project can be used to build your own strategy, backtest to test and improve strategy. and can live trading by using your strategy.
 
 A project for trader from trader. main features: draw tool, popular indicator like Tradingview; connect with many popular exchanges like binance, mexc... via api and secret key to live trade; build custom indicator, and clone famous custom indicator on MT4, MT5 and Tradingview; Build and test strategies.
+
+* 🔹**Automate Your Trades** with cutting-edge algorithms.
+* 🔹**Real-time Market Analysis** with advanced indicators.
+* 🔹**Optimized for Performance** using Python & PySide6.
+
+This project is built for traders who want to  **enhance their strategy, reduce manual work, and execute trades efficiently** . Whether you’re a developer, trader, or enthusiast, your contributions can help improve this  **open-source trading platform** !
+
+* ⭐**Star this repo** to support the project!
+* 🔄 **Fork it** to customize & contribute!.
+* 💬 **Join the discussion** and share your insights!
+
+Let’s build the future of algorithmic trading together! 🚀🔥
 
 ## ATK - Features
 
@@ -122,12 +121,18 @@ activate venv: venv/scripts/activate
 
 install libs: pip install -r requirements.txt
 
-run mainwindow.py to start app: python mainwindow.py
+- Have to install pdf2image if your os system is MacOS or Linux/Ubuntu: https://pypi.org/project/pdf2image/ 
+- on MacOS: install : Brew https://brew.sh/ with cmd: 
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" 
+,then install poppler: brew install poppler
+- on Linux: conda install -c conda-forge poppler ,then install poppler:  pip install pdf2image
+
+run ATK.py to start app: python ATK.py or python3 ATK.py
 
 ## Build exe
 
-- Use pyinstaller to build
 - Convert py to pyd using cython
+- Use pyinstaller to build
 
 ## Roadmap 2025
 

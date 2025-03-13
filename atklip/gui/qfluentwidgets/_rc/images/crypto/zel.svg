@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><g fill="none" fill-rule="evenodd"><circle cx="16" cy="16" r="16" fill="#183C87" fill-rule="nonzero"/><path fill="#FFF" d="M5 15.615l4.495-2.538 4.494 2.538v4.847L9.495 23 5 20.462v-4.847zm13.01 0l4.495-2.538L27 15.615v4.847L22.505 23l-4.494-2.538v-4.847zm-.472 4.21l-1.577.867-1.499-.823V15.23l-4.1-2.316V11.23L15.961 8l5.598 3.23v1.73l-4.021 2.27v4.596z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="zel" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#183C87;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<circle id="Round" class="st0" cx="250.6" cy="249.6" r="247.3"/>
+<path id="Box_Left-2" class="st1" d="M69.2,242.6l73.6-42.6l73.3,42.6v85.2l-73.3,42.6l-73.6-42.6V242.6z"/>
+<path id="Box_Left-3" class="st1" d="M285.3,242.6l73.6-42.6l73.3,42.6v85.2l-73.3,42.6l-73.6-42.6V242.6z"/>
+<path id="Box_Main-2" class="st1" d="M157.6,168l92.9-54.3l93.2,54.3v30.5l-66.7,38.7v78.1l-26.5,15.4l-26.3-15.4v-78.1l-66.7-38.7
+	V168z"/>
+</svg>

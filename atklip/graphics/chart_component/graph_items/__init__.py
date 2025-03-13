@@ -1,1 +1,0 @@
-from .inforlabel import InfLabel

@@ -1,1 +1,0 @@
-from .watchlist import WATCHLISTS

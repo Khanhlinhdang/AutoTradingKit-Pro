@@ -2,7 +2,7 @@ QTableView {
     background: transparent;
     outline: none;
     border: none;
-    font: 13px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC';
+    font: 13px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC',  'Arial';
     selection-background-color: transparent;
     alternate-background-color: transparent;
 }
@@ -14,8 +14,8 @@ QTableView[isBorderVisible=true] {
 QTableView::item {
     background: transparent;
     border: 0px;
-    padding-left: 16px;
-    padding-right: 16px;
+    padding-left: 2px;
+    padding-right: 2px;
     height: 35px;
 }
 
@@ -35,10 +35,10 @@ QHeaderView {
 QHeaderView::section {
     background-color: transparent;
     color: rgb(203, 203, 203);
-    padding-left: 5px;
-    padding-right: 5px;
+    padding-left: 2px;
+    padding-right: 2px;
     border: 1px solid rgba(255, 255, 255, 21);
-    font: 13px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC';
+    font: 13px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC',  'Arial';
 }
 
 QHeaderView::section:horizontal {

@@ -27,7 +27,7 @@ QScrollArea {
 }
 
 QLabel {
-    font: 14px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC';
+    font: 14px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC',  'Arial';
     color: #d1d4dc;
     background-color: transparent;
     border: none;
@@ -92,7 +92,7 @@ QSlider::handle:horizontal:disabled {
     border-top: 1px solid rgb(53, 53, 53);
     border-radius: 5px;
     color: #d1d4dc;
-    font: 14px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC';
+    font: 14px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC',  'Arial';
     padding: 5px 9px 6px 9px;
     outline: none;
 }

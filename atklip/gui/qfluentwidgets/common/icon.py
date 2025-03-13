@@ -269,7 +269,7 @@ def get_exchange_icon(exchange):
             return  EchangeIcon.BITFINEX2.path(), "BitFinex", "SPOT & FUTURES"
         elif exchange == "bingx":
             return  EchangeIcon.BINGX.path(), "BingX", "SPOT & FUTURES"
-        return None, "Binance"
+        return EchangeIcon.BINANCE_ICON.path(), "Binance Perpetual", "FUTURES"
 
 @lru_cache(maxsize=128) 
 def get_symbol_icon(symbol:str):
@@ -464,6 +464,21 @@ class CryptoIcon(FluentIconBase, Enum):
     @staticmethod
     def crypto_url(symbol):
         return f':/qfluentwidgets/images/crypto/{symbol}.svg'
+    @staticmethod
+    def render(painter, rect, symbol:str, indexes=None, **attributes):
+        if symbol.endswith("svg"):
+            icon = symbol
+        else:
+            icon = CryptoIcon.crypto_url(symbol)
+        if icon.endswith('.svg'):
+            if attributes:
+                icon = writeSvg(icon, indexes, **attributes).encode()
+            drawSvgIcon(icon, painter, rect)
+        else:
+            icon = QIcon(icon)
+            rect = QRectF(rect).toRect()
+            painter.drawPixmap(rect, icon.pixmap(QRectF(rect).toRect().size()))
+    
 
 class EchangeIcon(FluentIconBase, Enum):
     """ Echange icon """
@@ -480,8 +495,8 @@ class EchangeIcon(FluentIconBase, Enum):
     KUCOIN = 'kucoin'
     KUCOIN_FUTURES = 'kucoin'   #có futures
     MEXC = "mexc"
-    BINANCE_ICON = 'binance_logo'
-    BINANCE_TEXT = 'binance_text'
+    BINANCE_ICON = 'binance'
+    BINANCE_TEXT = 'binance'
     # BYBIT_USDT_PERPETUAL = ''
     BYBIT = 'bybit'  #có futures
     BITVAVO = "bitvavo"
@@ -494,11 +509,26 @@ class EchangeIcon(FluentIconBase, Enum):
     # WOO = "woo"
 
     def path(self, theme=Theme.AUTO):
-        return f':/qfluentwidgets/images/exchange/{self.value}.png'
+        return f':/qfluentwidgets/images/exchange/{self.value}.svg'
     @staticmethod
     def exchange_url(exchange):
-        return f':/qfluentwidgets/images/exchange/{exchange}.png'
+        return f':/qfluentwidgets/images/exchange/{exchange}.svg'
 
+    @staticmethod
+    def render(painter, rect, exchange:str, indexes=None, **attributes):
+        if exchange.endswith("svg"):
+            icon = exchange
+        else:
+            icon = EchangeIcon.exchange_url(exchange)
+        if icon.endswith('.svg'):
+            if attributes:
+                icon = writeSvg(icon, indexes, **attributes).encode()
+            drawSvgIcon(icon, painter, rect)
+        else:
+            icon = QIcon(icon)
+            rect = QRectF(rect).toRect()
+            painter.drawPixmap(rect, icon.pixmap(QRectF(rect).toRect().size()))
+    
 class ColoredFluentIcon(FluentIconBase):
     """ Colored fluent icon """
 

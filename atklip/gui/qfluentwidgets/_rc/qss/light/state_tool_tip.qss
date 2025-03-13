@@ -8,7 +8,7 @@ ToastToolTip {
 QLabel {
     color: #d1d4dc;
     background-color: transparent;
-    font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC';
+    font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC',  'Arial';
     border: none;
 }
 

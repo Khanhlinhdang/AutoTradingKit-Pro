@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><g fill="none" fill-rule="evenodd"><circle cx="16" cy="16" r="16" fill="#3FBADF"/><g fill="#FFF" fill-rule="nonzero"><path fill-opacity=".4" d="M11 22.119l5-2.82v5.635l-5-2.815zm0-9l5-2.82v5.635l-5-2.815z"/><path fill-opacity=".7" d="M26 19.23l-5 2.886V16.43l5 2.8zm0-9l-5 2.886V7.43l5 2.8z"/><path fill-opacity=".8" d="M11 22.116v-5.683l5 2.87-5 2.813zm0-9V7.433l5 2.87-5 2.813z"/><path d="M21 22.116l-5-2.812 5-2.874v5.686zm0-9l-5-2.812 5-2.874v5.686z"/><path fill-opacity=".6" d="M21 22.116l-5 2.818v-5.63l5 2.812zm0-9l-5 2.818v-5.63l5 2.812z"/><path fill-opacity=".5" d="M11 16.433v5.683l-5-2.885 5-2.798zm0-9v5.683l-5-2.885 5-2.798z"/></g></g></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<polygon style="fill:#B3D002;" points="374.098,39.191 497.881,110.875 374.098,182.168 "/>
+<polygon style="fill:#F4EA1B;" points="374.098,39.191 249.95,110.68 374.098,182.168 "/>
+<polygon style="fill:#66B72F;" points="374.098,182.168 249.95,253.069 249.95,110.68 "/>
+<polygon style="fill:#0568B2;" points="249.95,110.68 125.358,181.874 249.95,253.069 "/>
+<polygon style="fill:#5EB9DD;" points="249.95,110.68 125.358,39.191 125.358,181.874 "/>
+<polygon style="fill:#1D3691;" points="125.358,39.191 2.751,110.68 125.358,181.874 "/>
+<polygon style="fill:#B3D002;" points="373.732,248.857 497.514,320.541 373.732,391.833 "/>
+<polygon style="fill:#F4EA1B;" points="373.732,248.857 249.583,320.345 373.732,391.833 "/>
+<polygon style="fill:#66B72F;" points="373.732,391.833 249.583,462.734 249.583,320.345 "/>
+<polygon style="fill:#0568B2;" points="249.583,320.345 124.992,391.54 249.583,462.734 "/>
+<polygon style="fill:#5EB9DD;" points="249.583,320.345 124.992,248.857 124.992,391.54 "/>
+<polyline style="fill:#1D3691;" points="124.992,391.54 124.992,248.857 2.385,320.345 "/>
+</svg>

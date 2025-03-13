@@ -1,1 +1,5 @@
-<!-- by TradingView --><svg width="18" height="18" xmlns="http://www.w3.org/2000/svg"><path fill="url(#paint0_linear)" d="M0 0h18v18H0z"/><path d="M7 7V5h7v2H7z" fill="#02A5C2"/><path d="M7 10V8h4v2H7zm-3 0V8h2v2H4z" fill="#5FCADE"/><path d="M7 13v-2h2v2H7z" fill="#ABEBF4"/><defs><linearGradient id="paint0_linear" x1="3.349" y1="3.122" x2="21.904" y2="24.434" gradientUnits="userSpaceOnUse"><stop stop-color="#1A1E21"/><stop offset="1" stop-color="#06060A"/></linearGradient></defs></svg>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M7.7373 7.97343V4.18408H21V7.97343H7.7373Z" fill="#02A5C2"/>
+<path d="M7.7367 13.6562V9.86694H17.2101V13.6562H7.7367ZM3 13.6562V9.86694H6.78935V13.6562H3Z" fill="#5FCADE"/>
+<path d="M7.7373 19.8161V16.0266H12.0004V19.8161H7.7373Z" fill="#ABEBF4"/>
+</svg>

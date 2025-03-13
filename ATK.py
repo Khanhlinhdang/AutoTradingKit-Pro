@@ -1,16 +1,18 @@
 import multiprocessing
 import sys
 import os
-from PySide6.QtCore import QCoreApplication,QSize
+from PySide6.QtCore import QCoreApplication
 from PySide6.QtGui import QCloseEvent,QIcon
 from PySide6.QtWidgets import QApplication
 
-from atklip.gui.qfluentwidgets.common import screen, setTheme,Theme
+from atklip.gui.qfluentwidgets.common.style_sheet import setTheme,Theme
 from atklip.gui.qfluentwidgets.common.icon import *
 from atklip.gui.qfluentwidgets.components.dialog_box import MessageBox
 from atklip.gui.views.fluentwindow import WindowBase
 from atklip.appmanager.setting.config import cfg
+import asyncio
 
+from atklip.appmanager.worker.threadpool import Heavy_ProcessPoolExecutor_global,num_threads
 
 class MainWindow(WindowBase):
     def __init__(self):
@@ -29,7 +31,6 @@ class MainWindow(WindowBase):
             event.ignore()
 
 def main():
-    # Constants for application information
     APP_VERSION = "1.0.0"
     APP_NAME = "Auto Trading Kit"
     APP_DISPLAY_NAME = f"ATK (v{APP_VERSION})"
@@ -37,27 +38,52 @@ def main():
     ORGANIZATION_DOMAIN = "ATK.COM"
     ICON_PATH = os.path.join("atklip", "appdata", "appico.ico")
 
-    # Enable DPI scale if not set to "Auto"
     dpi_scale = cfg.get(cfg.dpiScale)
     if dpi_scale != "Auto":
         os.environ["QT_ENABLE_HIGHDPI_SCALING"] = "0"
         os.environ["QT_SCALE_FACTOR"] = str(dpi_scale)
     
     setTheme(Theme.DARK, True, True)
-    app = QApplication(sys.argv)
+    app = QApplication(sys.argv + ['--no-sandbox'])
     app.setAttribute(Qt.AA_DontCreateNativeWidgetSiblings)
     app.setStyle("Fusion")
     app.setApplicationVersion(APP_VERSION)
     app.setApplicationName(APP_NAME)
     app.setApplicationDisplayName(APP_DISPLAY_NAME)
     app.setOrganizationName(ORGANIZATION_NAME)
-    app.setOrganizationDomain(ORGANIZATION_DOMAIN)
+    app.setOrganizationDomain(ORGANIZATION_DOMAIN) 
     w = MainWindow()
     w.setWindowTitle(f"ATK - {APP_NAME}")
     icon = QIcon(get_real_path(ICON_PATH))
     w.setWindowIcon(icon)
     sys.exit(app.exec())
 
+try: 
+    from ctypes import windll # Only exists on Windows.
+    myappid = "atkteam.atk.subproduct.version" 
+    windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)
+except ImportError:
+    pass
+
+def start_worker():
+        pass
 if __name__ == '__main__':
     multiprocessing.freeze_support()
+    if sys.platform == "darwin" or sys.platform == "linux":
+        try:
+            import uvloop 
+            asyncio.set_event_loop_policy(uvloop.EventLoopPolicy())
+        except:
+            pass
+    else:
+        try:
+            import winloop 
+            winloop.install()
+        except:
+            asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+    "đảm bảo ProcessPoolExecutor được kích hoạt trước"
+    for i in range(int(num_threads/2)):
+        Heavy_ProcessPoolExecutor_global.submit(start_worker)
     main()
+    
+    

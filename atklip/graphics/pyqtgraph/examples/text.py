@@ -33,6 +33,7 @@ plot.addItem(arrow)
 curvePoint = pg.CurvePoint(curve)
 plot.addItem(curvePoint)
 text2 = pg.TextItem("test", anchor=(0.5, -1.0))
+
 text2.setParentItem(curvePoint)
 arrow2 = pg.ArrowItem(angle=90)
 arrow2.setParentItem(curvePoint)
@@ -43,6 +44,7 @@ def update():
     global curvePoint, index
     index = (index + 1) % len(x)
     curvePoint.setPos(float(index)/(len(x)-1))
+    text2.setPos(x[index], y[index])
     text2.setText('[%0.1f, %0.1f]' % (x[index], y[index]))
     
 timer = QtCore.QTimer()

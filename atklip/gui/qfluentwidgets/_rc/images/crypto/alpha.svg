@@ -1,1 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none"><defs><linearGradient id="alpha__b" x1="4.686" x2="27.315" y1="27.316" y2="4.687" gradientUnits="userSpaceOnUse"><stop stop-color="#102054"/><stop offset="1" stop-color="#1A45B8"/></linearGradient><linearGradient id="alpha__c" x1="19.393" x2="19.393" y1="6.275" y2="23.469" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity=".6"/></linearGradient><linearGradient id="alpha__d" x1="12.61" x2="12.61" y1="23.349" y2="6.475" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity=".6"/></linearGradient><clipPath id="alpha__a"><path fill="#fff" d="M0 0h32v32H0z"/></clipPath></defs><g clip-path="url(#alpha__a)"><path fill="url(#alpha__b)" d="M16 32c8.837 0 16-7.163 16-16S24.837 0 16 0 0 7.163 0 16s7.163 16 16 16Z"/><path fill="url(#alpha__c)" d="M16 6.325v.01l.003 6.33 1.146 2.864-1.143-.953v3.056l.018.023a21.909 21.909 0 0 0 6.76 5.633L16 6.325Z"/><path fill="url(#alpha__d)" d="M16 6.325v.01l-.003 6.33-1.146 2.864 1.143-.953v3.056l-.018.023a21.91 21.91 0 0 1-6.76 5.633L16 6.325Z"/><path fill="#F5CC02" d="M16 21.514a1.54 1.54 0 1 0 0-3.08 1.54 1.54 0 0 0 0 3.08Z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="alpha" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st2{mask:url(#mask-2_1_);fill-rule:evenodd;clip-rule:evenodd;fill:#29B2FF;}
+	.st3{fill:#FFFFFF;}
+</style>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="0" width="500" height="500">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="0" y="0" width="500" height="500" id="mask-2_1_">
+	<g class="st0">
+		<polygon id="path-1_1_" class="st1" points="0,0 500,0 500,500 0,500 		"/>
+	</g>
+</mask>
+<path id="Fill-1" class="st2" d="M250,0C112.1,0,0,112.1,0,250s112.1,250,250,250s250-112.1,250-250S387.9,0,250,0"/>
+<polygon class="st3" points="178.3,173 63.6,326 86.9,326 112.1,292.4 192.2,292.4 192.2,273.7 192.2,273.7 192.2,273.7 
+	126.1,273.7 201.7,173 "/>
+<polygon class="st3" points="436.4,326 321.6,173 298.3,173 373.9,273.7 307.8,273.7 307.8,273.7 307.8,273.7 307.8,292.4 
+	387.9,292.4 413.1,326 "/>
+<rect x="240.7" y="89.3" class="st3" width="18.7" height="236.6"/>
+</svg>

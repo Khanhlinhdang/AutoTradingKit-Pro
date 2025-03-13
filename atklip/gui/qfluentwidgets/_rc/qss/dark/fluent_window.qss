@@ -10,7 +10,7 @@ StackedWidget[isTransparent=true] {
 FluentTitleBar>QLabel#titleLabel,
 SplitTitleBar>QLabel#titleLabel {
     background: transparent;
-    font: 13px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC';
+    font: 13px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC',  'Arial';
     padding: 0 4px;
     color: #d1d4dc;
 }

@@ -4,5 +4,5 @@ TitleBar {
     background-color: rgb(249, 249, 249);
     outline: none;
     color: rgba(255, 255, 255, 0.1);
-    font: 14px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC';
+    font: 14px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC',  'Arial';
 }
