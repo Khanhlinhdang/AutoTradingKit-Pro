@@ -22,6 +22,4 @@ humanize
 websockets
 psygnal
 click
-pdf2image
-winloop
-pywin32
+uvloop
