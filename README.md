@@ -120,15 +120,13 @@ create python evironment: python -m venv .venv
 
 activate venv: .venv/scripts/activate
 
+- on Window:  Use source in main brand python 3.12
+- on MacOS:  Use source in macos brand python 3.12
+- on Linux: Use source in linux brand python 3.12
 install libs: pip install -r requirements.txt
-
-- on Window:  Use source in main brand
-- on MacOS:  Use source in macos brand
-- on Linux: Use source in linux brand
-
 run ATK.py to start app: python ATK.py or python3 ATK.py
 
-## Build exe
+## Build application
 
 - Convert py to pyd using cython to improve perfomance
 - Use pyinstaller to build exe on window, so on linux/macos
