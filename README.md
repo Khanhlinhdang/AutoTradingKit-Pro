@@ -115,24 +115,22 @@ In the future, we will update more indicators, which are populars and famous on 
 
 clone from: https://github.com/Khanhlinhdang/AutoTradingKit.git
 
-create python evironment: python -m venv venv
+create python evironment: python -m venv .venv
 
-activate venv: venv/scripts/activate
+activate venv: .venv/scripts/activate
 
 install libs: pip install -r requirements.txt
 
-- Have to install pdf2image if your os system is MacOS or Linux/Ubuntu: https://pypi.org/project/pdf2image/ 
-- on MacOS: install : Brew https://brew.sh/ with cmd: 
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" 
-,then install poppler: brew install poppler
-- on Linux: conda install -c conda-forge poppler ,then install poppler:  pip install pdf2image
+- on Window:  Use source in main brand
+- on MacOS:  Use source in macos brand
+- on Linux: Use source in linux brand
 
 run ATK.py to start app: python ATK.py or python3 ATK.py
 
 ## Build exe
 
-- Convert py to pyd using cython
-- Use pyinstaller to build
+- Convert py to pyd using cython to improve perfomance
+- Use pyinstaller to build exe on window, so on linux/macos
 
 ## Roadmap 2025
 
@@ -157,11 +155,9 @@ This software is open source, and its source code is publicly available for revi
 
 ### License Terms:
 
-1. **Public Source Code** : The source code is openly available but restricted in usage.
-2. **Usage Requires Permission** : You **must** obtain written consent from the author before using this software.
+1. **Public Source Code** : The source code is not openly currently.
+2. **Usage Requires Permission** : You can use this project everytime.
 3. **Paid License or Sponsorship**: If you get rich, please say thank to us by:
-
-* Purchase a license from the author, or
 * Provide sponsorship or financial support as agreed upon with the author.
 
 1. **No Redistribution** : You are not allowed to share, resell, or distribute this code without explicit permission.
