@@ -56,7 +56,7 @@ Let’s build the future of algorithmic trading together! 🚀🔥
 
 ## Connect with ATK team
 
-- Create an issue or request a new feature on this [Github repository](https://github.com/Khanhlinhdang/AutoTradingKit)
+- Create an issue or request a new feature on this [Github repository](https://github.com/Khanhlinhdang/AutoTradingKit-Pro)
 - If you want to update some personal feature, please sent an email to khanhlinhdangthditrach@gmail.com
 
 ## Many indicators, sourced from famous libraries such as [pandas-ta](https://github.com/twopirllc/pandas-ta/tree/main), [ta-lib](), and even indicators converted from TradingView,MT4,MT5
