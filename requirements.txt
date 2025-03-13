@@ -22,4 +22,5 @@ humanize
 websockets
 psygnal
 click
+pdf2image
 uvloop

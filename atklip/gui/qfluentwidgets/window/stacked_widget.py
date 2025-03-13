@@ -5,6 +5,7 @@ from PySide6.QtWidgets import QFrame, QHBoxLayout, QAbstractScrollArea
 from ..components.widgets.stacked_widget import PopUpAniStackedWidget
 
 
+
 class StackedWidget(QFrame):
     """ Stacked widget """
 
@@ -24,6 +25,10 @@ class StackedWidget(QFrame):
     def addWidget(self, widget):
         """ add widget to view """
         self.view.addWidget(widget)
+
+    def removeWidget(self, widget):
+        """ remove widget from view """
+        self.view.removeWidget(widget)
 
     def widget(self, index: int):
         return self.view.widget(index)
