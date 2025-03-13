@@ -1,6 +1,6 @@
 # ATK - Auto Trading Kit
 
-This is a free software designed for traders. If you become wealthy thanks to it, that is our happiness.
+This is a free software designed for traders and developers.
 
 ## Description
 
@@ -114,7 +114,7 @@ In the future, we will update more indicators, which are populars and famous on 
 
 ## Installation
 
-clone from: https://github.com/Khanhlinhdang/AutoTradingKit.git
+clone from: https://github.com/Khanhlinhdang/AutoTradingKit-Pro
 
 create python evironment: python -m venv .venv
 
@@ -122,13 +122,15 @@ activate venv: .venv/scripts/activate
 
 - on Window:  Use source in main brand python 3.12
 - on MacOS:  Use source in macos brand python 3.12
-- on Linux: Use source in linux brand python 3.12
+- on Linux: Use source in linux brand python 3.12 
+
 install libs: pip install -r requirements.txt
+
 run ATK.py to start app: python ATK.py or python3 ATK.py
 
 ## Build application
 
-- Convert py to pyd using cython to improve perfomance
+- Convert py to pyd/so using cython to improve perfomance
 - Use pyinstaller to build exe on window, so on linux/macos
 
 ## Roadmap 2025
