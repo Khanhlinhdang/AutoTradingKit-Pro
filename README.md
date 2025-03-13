@@ -7,6 +7,7 @@ This is a free software designed for traders. If you become wealthy thanks to it
 Auto Trading Kit: its mean, this project can be used to build your own strategy, backtest to test and improve strategy. and can live trading by using your strategy.
 
 A project for trader from trader. main features: draw tool, popular indicator like Tradingview; connect with many popular exchanges like binance, mexc... via api and secret key to live trade; build custom indicator, and clone famous custom indicator on MT4, MT5 and Tradingview; Build and test strategies.
+You can run ATK on Window/MacOS/Linux.
 
 * 🔹**Automate Your Trades** with cutting-edge algorithms.
 * 🔹**Real-time Market Analysis** with advanced indicators.
