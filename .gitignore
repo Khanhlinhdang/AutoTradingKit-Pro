@@ -167,7 +167,7 @@ build
 /app
 app
 định hướng atk.docx
-*.pyd
+# *.pyd
 *.so
 
 download
